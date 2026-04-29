@@ -3,8 +3,24 @@
     "id": 1,
     "type": "info",
     "title": "Selamat Datang di ZeaPOS!",
-    "message": "Terima kasih sudah menggunakan ZeaPOS. Hubungi developer untuk info update dan fitur terbaru.",
+    "message": "Terima kasih sudah menggunakan ZeaPOS. Hubungi developer untuk info update.",
     "link": "",
+    "active": true
+  },
+  {
+    "id": 2,
+    "type": "update",
+    "title": "ZeaPOS v1.0.0 Rilis!",
+    "message": "Fitur lengkap: Transaksi, Laporan, Hutang, Kas, Konsinyasi & lebih banyak lagi!",
+    "link": "",
+    "active": true
+  },
+  {
+    "id": 3,
+    "type": "promo",
+    "title": "Butuh bantuan?",
+    "message": "Hubungi developer via WhatsApp untuk support & konsultasi fitur.",
+    "link": "https://wa.me/6283117735873",
     "active": true
   }
 ]
