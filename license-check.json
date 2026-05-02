@@ -1,4 +1,8 @@
 {
-  "blacklist": [],
+  "blacklist": [
+    "hwid-customer-A",
+    "hwid-customer-B", 
+    "hwid-customer-C"
+  ],
   "notice": "Lisensi Anda telah dinonaktifkan. Hubungi admin untuk informasi lebih lanjut."
 }
