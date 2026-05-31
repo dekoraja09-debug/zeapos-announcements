@@ -1,29 +1,11 @@
 [
   {
-    "id": 1,
+    "id": 1780198273874,
     "type": "info",
-    "title": "Selamat Datang di ZeaPOS!",
-    "message": "Terima kasih sudah menggunakan ZeaPOS. Hubungi developer untuk info update.",
-    "image": "https://raw.githubusercontent.com/dekoraja09-debug/zeapos-announcements/main/images/selamat-datang.png",
+    "title": "Selayang Pandang",
+    "message": "Selamat Datang di Aplikasi ZeaPOS ",
+    "image": "",
     "link": "",
-    "active": true
-  },
-  {
-    "id": 2,
-    "type": "update",
-    "title": "ZeaPOS v1.0.0 Rilis!",
-    "message": "Fitur lengkap: Transaksi, Laporan, Hutang, Kas, Konsinyasi & lebih banyak lagi!",
-    "image": "https://raw.githubusercontent.com/dekoraja09-debug/zeapos-announcements/main/images/fitur-baru.png",
-    "link": "",
-    "active": true
-  },
-  {
-    "id": 3,
-    "type": "promo",
-    "title": "Butuh bantuan?",
-    "message": "Hubungi developer via WhatsApp untuk support & konsultasi fitur.",
-    "image": "https://raw.githubusercontent.com/dekoraja09-debug/zeapos-announcements/main/images/hubungi-developer.png",
-    "link": "https://wa.me/6283117735873",
     "active": true
   }
 ]
