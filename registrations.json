@@ -9,5 +9,16 @@
     "registered_at": "2026-05-31",
     "trial_expires": "2026-06-07",
     "status": "trial"
+  },
+  {
+    "hwid": "AND-C88C4AF5F74F345E",
+    "platform": "android",
+    "store_name": "Cagur",
+    "owner_name": "Deny Kurniawan ",
+    "phone": "083117735873",
+    "city": "Jombang",
+    "registered_at": "2026-06-01",
+    "trial_expires": "2026-06-08",
+    "status": "trial"
   }
 ]
