@@ -53,5 +53,16 @@
     "registered_at": "2026-06-01",
     "trial_expires": "2026-06-08",
     "status": "trial"
+  },
+  {
+    "hwid": "AND-DF9DA5ED",
+    "platform": "android",
+    "store_name": "MuSa ALLSHOP",
+    "owner_name": "Sanadi",
+    "phone": "085732418257",
+    "city": "Jombang",
+    "registered_at": "2026-06-01",
+    "trial_expires": "2026-06-08",
+    "status": "trial"
   }
 ]
