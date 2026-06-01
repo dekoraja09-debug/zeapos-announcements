@@ -31,5 +31,16 @@
     "registered_at": "2026-06-01",
     "trial_expires": "2026-06-08",
     "status": "trial"
+  },
+  {
+    "hwid": "AND-8FF0276AF4AA1132",
+    "platform": "android",
+    "store_name": "Aduh Dek",
+    "owner_name": "Coco",
+    "phone": "083117735873",
+    "city": "Jombang",
+    "registered_at": "2026-06-01",
+    "trial_expires": "2026-06-08",
+    "status": "trial"
   }
 ]
