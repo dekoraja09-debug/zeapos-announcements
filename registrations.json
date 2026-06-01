@@ -20,5 +20,16 @@
     "registered_at": "2026-06-01",
     "trial_expires": "2026-06-08",
     "status": "trial"
+  },
+  {
+    "hwid": "AND-0054D85C201989FE",
+    "platform": "android",
+    "store_name": "Tester",
+    "owner_name": "Deny",
+    "phone": "083117735873",
+    "city": "Jombang",
+    "registered_at": "2026-06-01",
+    "trial_expires": "2026-06-08",
+    "status": "trial"
   }
 ]
