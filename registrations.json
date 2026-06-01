@@ -42,5 +42,16 @@
     "registered_at": "2026-06-01",
     "trial_expires": "2026-06-08",
     "status": "trial"
+  },
+  {
+    "hwid": "AND-505CE2BF",
+    "platform": "android",
+    "store_name": "Apa Aja Deh",
+    "owner_name": "Paijo",
+    "phone": "083117735873",
+    "city": "Jombang",
+    "registered_at": "2026-06-01",
+    "trial_expires": "2026-06-08",
+    "status": "trial"
   }
 ]
