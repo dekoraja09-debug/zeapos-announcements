@@ -1,6 +1,8 @@
 {
   "blacklist": [
-    "hwid-customer-A"
+    "hwid-customer-A",
+    "AND-C88C4AF5F74F345E",
+    "AND-0054D85C201989FE"
   ],
   "notice": "Lisensi Anda telah dinonaktifkan. Hubungi admin untuk informasi lebih lanjut."
 }
